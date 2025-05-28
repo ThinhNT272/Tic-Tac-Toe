@@ -16,6 +16,7 @@ Using gcc to compile file.c:
 
 ## Game Setup
 start server: `./server`
+
 Open new enviroment and connect to server as play: `./client`
 
 ## Gameplay Instructions
